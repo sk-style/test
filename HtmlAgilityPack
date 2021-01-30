@@ -1,0 +1,44 @@
+<html><body>
+
+    <div>
+      <div>
+        <div class="header-item">番号</div>
+        <div class="header-item">チャックボックス</div>
+        <div class="header-item">価格</div>
+        <div class="header-item">面積</div>
+      </div>
+    </div>
+    
+    <!---------- 今回抽出したいもの ----------->
+    <div>
+      <div class="oya">
+        <div class="ko-item large">1</div>
+        <div class="ko-item"><div><input type="checkbox"><label></label></div></div></div>
+        <div class="ko-item"></div>
+        <div class="ko-item">2,980万円</div>
+        <div class="ko-item">23㎡</div>
+      </div>
+      <div class="oya">
+        <div class="ko-item large">1</div>
+        <div class="ko-item"><div><input type="checkbox"><label></label></div></div></div>
+        <div class="ko-item"></div>
+        <div class="ko-item">2,980万円</div>
+        <div class="ko-item">23㎡</div>
+      </div>
+      <div class="oya">
+        <div class="ko-item large">1</div>
+        <div class="ko-item"><div><input type="checkbox"><label></label></div></div></div>
+        <div class="ko-item"></div>
+        <div class="ko-item">2,980万円</div>
+        <div class="ko-item">23㎡</div>
+      </div><div class="oya">
+        <div class="ko-item large">1</div>
+        <div class="ko-item"><div><input type="checkbox"><label></label></div></div></div>
+        <div class="ko-item"></div>
+        <div class="ko-item">2,980万円</div>
+        <div class="ko-item">23㎡</div>
+      </div>
+
+    </div><!---------- / 今回抽出したいもの ----------->
+    
+</body></html>
